@@ -11,7 +11,7 @@
 Educational institutions need data-driven methods to predict student performance and identify at-risk students early. Traditional grade prediction relies on teacher intuition, while machine learning can provide objective, consistent predictions based on observable student behaviors.
 
 ## **Dataset**
-https://www.kaggle.com/datasets/nabeelqureshitiii/student-performance-dataset
+- **Dataset sourced from Kaggle:** https://www.kaggle.com/datasets/nabeelqureshitiii/student-performance-dataset
 - **Size**: 1,000,000 student records
 - **Features Used**:
   - `weekly_self_study_hours`: Hours of self-study per week (0-40)
