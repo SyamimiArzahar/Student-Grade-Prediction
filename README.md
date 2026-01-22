@@ -1,11 +1,10 @@
-# Student-Grade-Prediction
-
 # **Student Grade Prediction Model**
 
 ## **Problem**
 Predicting student final grades based on academic and behavioral factors is challenging for educational institutions. Traditional methods rely on subjective assessment, while machine learning can provide data-driven, objective predictions to help identify at-risk students early and allocate resources effectively.
 
 ## **Dataset**
+https://www.kaggle.com/datasets/nabeelqureshitiii/student-performance-dataset
 - **Size**: 1,000,000 student records
 - **Features**:
   - `weekly_self_study_hours`: Hours of self-study per week (0-40)
